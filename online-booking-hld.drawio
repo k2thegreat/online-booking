@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T18:46:50.042Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="mZqzFbw7X30kGbDJXjZP" version="21.7.4" type="device">
+<mxfile host="app.diagrams.net" modified="2023-10-24T18:50:08.118Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="v1dGLJIDCxMDOZUR73zZ" version="21.7.4" type="device">
   <diagram name="Page-1" id="x7-9ouCwcgFe0Jsgar7X">
     <mxGraphModel dx="1222" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="8P44EkPEJpmwPfAIKVje-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8P44EkPEJpmwPfAIKVje-22" target="8P44EkPEJpmwPfAIKVje-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8P44EkPEJpmwPfAIKVje-22" value="Distributed&lt;br&gt;CACHE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8P44EkPEJpmwPfAIKVje-22" value="CACHE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="245" width="70" height="210" as="geometry" />
         </mxCell>
         <mxCell id="8P44EkPEJpmwPfAIKVje-23" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
